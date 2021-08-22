@@ -1,4 +1,4 @@
-# Mercadinho JAVA
+# Mercadinho Boa Vida
 É um projeto de Mercadinho chamado 'Mercadinho Boa Vida', suas funcionalidades serão:
 <br />
 Sistema de login. 
